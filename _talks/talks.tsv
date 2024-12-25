@@ -1,0 +1,33 @@
+title	type	url_slug	venue	date	location	talk_url	description
+Real-Time Anomaly Detection from Edge to HPC-Cloud	Talk	bdec2-2018	Big Data and Extreme-Scale Computing 2 Workshop (BDEC2)	2018-11-28	Bloomington, Indiana		
+High-Performance AI: A View from Systems and Frameworks	Talk	sc18-2018	Our Deep Learning on Supercomputers workshop of SC18	2018-11-16	Dallas, Texas		
+Real-Time Anomaly Detection from Edge to HPC-Cloud	Talk	ccdsc-2018	Workshop on Clusters and Computational Data for Scientific Computing (CCDSC)	2018-09-04	Lyon, France		
+High-Performance Big Data Computing with Harp-DAAL	Talk	hpc-2018	HPC 2018 Workshop	2018-07-02	Cetraro, Italy		
+Harp-DAAL: A Next Generation Platform for HPC-Cloud	Talk	sc17-2017	SC17	2017-11-15	Denver, Colorado		
+Convergence of HPC and Clouds for Data Science	Talk	cetraro-2016	HPC Workshop	2016-07-26	Cetraro, Italy		
+Convergence of HPC and Clouds for Data Science	Talk	uiuc-2016	UIUC/NCSA Seminar	2016-03-13	UIUC/NCSA		
+Date-enabled Science and Engineering	Talk	iu-2015	CS Colloquium at Indiana University	2015-08-28	Bloomington, Indiana		
+Towards HPC-ABDS	Talk	vt-2015	Virginia Tech Seminar	2015-07-09	Blacksburg, Virginia		
+Harp: Collective Communication on Hadoop	Talk	iupui-2014	Computer and Information Science Department Seminar	2014-11-07	IUPUI		
+Harp: Collective Communication on Hadoop	Talk	hpc-2014	HPC Workshop	2014-07-07	Cetraro, Italy		
+Supporting End-to-End Social Media Data Analysis	Talk	mtags-2013	MTAGS Workshop at SC13	2013-11-17	SC13		
+Generalizing MapReduce	Talk	rutgers-2013	ECE Colloquium	2013-10-10	New Jersey		
+Clustering Social Images in the Cloud	Talk	trends-2013	Trends in HPC Workshop	2013-03-12	New Jersey		
+Portable Data Mining on Azure and HPC	Talk	mtags-2012	MTAGS Workshop	2012-11-12	Salt Lake City		
+High Performance Computing and Clouds	Talk	hpc-2012	HPC2012 Workshop	2012-06-25	Cetraro, Italy		
+Twister4Azure: Parallel Data Analytics	Talk	msft-2012	Microsoft Cloud Workshop	2012-05-07	UC Berkeley		
+Iterative MapReduce	Talk	iit-2011	CS Department Seminar	2011-11-04	Chicago		
+Generalizing MapReduce	Talk	pdac-2011	PDAC Workshop at SC11	2011-11-12	Seattle		
+Beyond MapReduce	Talk	tsinghua-2011	University Seminar	2011-09-30	Beijing, China		
+Iterative MapReduce enabling HPC-Cloud Interoperability	Talk	peking-2011	NSF-NSFC U.S.-China Software Workshop, Peking University	2011-09-26	Beijing, China		
+Data Analysis for Scientific Applications	Talk	eitc-2011	EITC Workshop	2011-07-28	Chicago		
+Hybrid Cloud and Cluster Computing Paradigms For Scalable Data Intensive Applications	Talk	csdc-2011	Computer Science Department Colloquium, University of Alabama	2011-04-15	Alabama		
+Applying Twister for Scientific Applications	Talk	nsf-2011	 NSF Cloud PI Workshop, Waterview Conference Center	2011-03-17	Arlington, Virginia		
+Analyzing large-scale cheminformatics and chemogenomics datasets through dimension reduction	Talk	nips-2010	Charting Chemical Space: Challenges and Opportunities for AI and Machine Learning at Neural Information Processing Systems Foundation Conference (NIPS 2010)	2010-12-10	Vancouver, B.C., Canada		
+Performance of MapReduce on Multicore Clusters	Talk	fmc-2010	2th Workshop on “Frontiers of Multicore Computing” (FMC II) 	2010-09-22	University of Maryland. Baltimore County		
+Cloud Technologies and Applications	Talk	cdn-2010	CDN Workshop	2010-05-17	Melbourne		
+Using MapReduce Technologies in Bioinformatics and Medical Informatics	Talk	sc09-2009	Using clouds for parallel computations in systems biology Workshop (part of DoE Knowledgebase in Systems Biology) at SuperComputing 09 Conference	2009-11-16	Portland, Oregon		
+Computational Methods for Large Scale DNA Data Analysis	Talk	escience-2009	Microsoft eScience Workshop. Gates Center, Carnegie Mellon University	2009-10-16	Pittsburgh, Pennsylvania		
+High Performance Biomedical Applications Using Cloud Technologies	Talk	summit09-2009	HPC and Grid Computing in the Cloud Workshop (Summit 09 of Open Grid Forum 27)	2009-10-13	Banff, Canada		
+Data Intensive Biomedical Computing System	Talk	ITsummit-2009	Statewide IT Conference 2009	2009-09-31	Indianapolis, Indiana		
+Large Scale DNA Sequence Analysis and Biomedical Computing using MapReduce, MPI and Threading	Talk	ndfdicw-2009	Enabling Data-Intensive Computing: from Systems to Applications (NSF Data Intensive Computing Workshop), University of Pittsburgh	2009-07-31	Pittsburgh, Pennsylvania		
