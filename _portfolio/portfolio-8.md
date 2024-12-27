@@ -1,16 +1,16 @@
 ---
 title: "Intel High Performance Data Analytics"
-excerpt: "Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.<br/><img src='/JudyFox/images/intel1.png' width='100' height='75'>"
+excerpt: "Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.<br/><img src='/images/intel1.png' width='100' height='75'>"
 collection: portfolio
 order: 8
 ---
 
-<img src='/JudyFox/images/code.png' width='100' height='75'>
+<img src='/images/code.png' width='100' height='75'>
 
 [GitHub](https://github.com/DSC-SPIDAL/harp/tree/subgraph2vec)
 
 ## SubGraph2Vec Vectorized Tree-like Subgraph Counting
-<img src='/JudyFox/images/netg.png' width='400' height='200'>
+<img src='/images/netg.png' width='400' height='200'>
 ### Challenges in Subgraph Counting
 - Extreme computational complexity (O(n^k) for k-size subgraphs)
 - Inefficient memory access patterns

@@ -1,11 +1,11 @@
 ---
 title: "IndexedHBase"
-excerpt: "Customizable indexing framework to support fast queries and analysis of interesting data subsets<br/><img src='/JudyFox/images/indexbase.png' width='100' height='75'>"
+excerpt: "Customizable indexing framework to support fast queries and analysis of interesting data subsets<br/><img src='/images/indexbase.png' width='100' height='75'>"
 collection: portfolio
 order: 4
 ---
 
-<img src='/JudyFox/images/indexbase.png' width='100' height='275'>
+<img src='/images/indexbase.png' width='100' height='275'>
 
 Customizable indexing framework to support fast queries and analysis of interesting data subsets
 IndexedHBase can achieve a query evaluation speed that is siginifcantly faster than using the existing indexing techniques provided by commercial NoSQL databases.

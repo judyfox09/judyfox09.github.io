@@ -1,13 +1,13 @@
 ---
 title: "IndyCar"
-excerpt: "Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.<br/><img src='/JudyFox/images/indycarimage.png' width='100' height='75'>"
+excerpt: "Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.<br/><img src='/images/indycarimage.png' width='100' height='75'>"
 collection: portfolio
 order: 0
 ---
 
 ## Objectives
 
-<img src='/JudyFox/images/objectives.png' width='800' height='500'>
+<img src='/images/objectives.png' width='800' height='500'>
 
 ## Publications
 ### Rank Position Forecasting in Car Racing
@@ -52,11 +52,11 @@ Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar
   - Best suited for real-time machine learning tasks due to reduced latency and efficient edge computing.
 
 **Prototype**
-<img src='/JudyFox/images/raceimage1.gif' width='800' height='500'>
+<img src='/images/raceimage1.gif' width='800' height='500'>
 
-<img src='/JudyFox/images/raceimage2.gif' width='800' height='500'>
+<img src='/images/raceimage2.gif' width='800' height='500'>
 
-<img src='/JudyFox/images/raceimage3.gif' width='800' height='500'>
+<img src='/images/raceimage3.gif' width='800' height='500'>
 
 # Rank Forecasting
 Rank position forecasting in car racing is a challenging problem. We propose RankNet, a combination of the encoder-decoder network and a separate Multilayer Perception network that is capable of delivering probabilistic forecasting to model the pit stop events and rank position in car racing. RankNet demonstrates a significant performance improvement.
@@ -72,7 +72,7 @@ Proceedings of 35th IEEE International Parallel & Distributed Processing Symposi
 **RankNet Architecture**  
 The details of RankNet is shown in our neural network architecture for the two sub-models in Figure.
 
-<img src='/JudyFox/images/ranknetarch.png' width='800' height='500'>
+<img src='/images/ranknetarch.png' width='800' height='500'>
 
 **PitModel**:
 - Utilizes simple multilayer perceptron network

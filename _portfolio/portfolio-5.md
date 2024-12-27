@@ -1,11 +1,11 @@
 ---
 title: "Plot4Viz"
-excerpt: "A cross-platform tool for visualizing large and high-dimensional data.<br/><img src='/JudyFox/images/plotvizimg.png' width='100' height='75'>"
+excerpt: "A cross-platform tool for visualizing large and high-dimensional data.<br/><img src='/images/plotvizimg.png' width='100' height='75'>"
 collection: portfolio
 order: 5
 ---
 
-<img src='/JudyFox/images/plotvizimg.png' width='100' height='75'>
+<img src='/images/plotvizimg.png' width='100' height='75'>
 
 PlotViz is a 3D data point browser that visualizes large volume of 2- or 3-dimensional data as points in a virtual space on a computer screen and enable users to explore the virtual space interactively.
 
@@ -27,12 +27,12 @@ PlotViz is a 3D data point browser that visualizes large volume of 2- or 3-dimen
 
 ## Screenshots
 
-<img src='/JudyFox/images/ss1.png' width='300' height='200'>
-<img src='/JudyFox/images/ss2.png' width='300' height='200'>
-<img src='/JudyFox/images/ss3.png' width='300' height='200'>
-<img src='/JudyFox/images/ss4.png' width='300' height='200'>
-<img src='/JudyFox/images/ss5.png' width='300' height='200'>
-<img src='/JudyFox/images/ss6.png' width='300' height='200'>
+<img src='/images/ss1.png' width='300' height='200'>
+<img src='/images/ss2.png' width='300' height='200'>
+<img src='/images/ss3.png' width='300' height='200'>
+<img src='/images/ss4.png' width='300' height='200'>
+<img src='/images/ss5.png' width='300' height='200'>
+<img src='/images/ss6.png' width='300' height='200'>
 
 ## Publications
 

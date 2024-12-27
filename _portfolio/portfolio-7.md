@@ -1,11 +1,11 @@
 ---
 title: "SGX-based Big-Data Analytics Frameworks"
-excerpt: "Scalable big-data analytics frameworks over the SGX TEE to support iterative, MPI-based cluster computing<br/><img src='/JudyFox/images/SGX.png' width='100' height='75'>"
+excerpt: "Scalable big-data analytics frameworks over the SGX TEE to support iterative, MPI-based cluster computing<br/><img src='/images/SGX.png' width='100' height='75'>"
 collection: portfolio
 order: 7
 ---
 
-<img src='/JudyFox/images/SGX.png' width='300' height='200'>
+<img src='/images/SGX.png' width='300' height='200'>
 
 [GitHub](https://github.com/Data-ScienceHub/HySec-Flow)
 

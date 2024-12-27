@@ -1,6 +1,6 @@
 ---
 title: "NEC Vector Engine"
-excerpt: "Leverage the leading-edge vector technology of SX-Aurora TSUBASA<br/><img src='/JudyFox/images/NECimg.png' width='100' height='75'>"
+excerpt: "Leverage the leading-edge vector technology of SX-Aurora TSUBASA<br/><img src='/images/NECimg.png' width='100' height='75'>"
 collection: portfolio
 order: 6
 ---
@@ -18,7 +18,7 @@ order: 6
   * 139% average improvement over CPU
   * Up to 6.43x performance gain
 
-<img src='/JudyFox/images/vector.png' width='800' height='400'>
+<img src='/images/vector.png' width='800' height='400'>
 
 **Performance Evaluation**  
 * Testing Details:

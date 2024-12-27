@@ -1,10 +1,10 @@
 ---
 title: "Twister"
-excerpt: "Iterative Map-Reduce for parallel and scientific computing.<br/><img src='/JudyFox/images/Twister.png' width='100' height='75'>"
+excerpt: "Iterative Map-Reduce for parallel and scientific computing.<br/><img src='/images/Twister.png' width='100' height='75'>"
 collection: portfolio
 order: 2
 ---
-<img src='/JudyFox/images/twisterimage1.png' width='100' height='75'>
+<img src='/images/twisterimage1.png' width='100' height='75'>
 
 Build a community to bridge the gap between high performance computing and data analytics.
 [Website](https://twister2.org/)

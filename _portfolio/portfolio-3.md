@@ -1,10 +1,10 @@
 ---
 title: "Twister4Azure"
-excerpt: "Decentralized Iterative MapReduce For Windows Azure Cloud<br/><img src='/JudyFox/images/azureimage1.png' width='100' height='75'>"
+excerpt: "Decentralized Iterative MapReduce For Windows Azure Cloud<br/><img src='/images/azureimage1.png' width='100' height='75'>"
 collection: portfolio
 order: 3
 ---
-<img src='/JudyFox/images/azureimage1.png' width='100' height='75'>
+<img src='/images/azureimage1.png' width='100' height='75'>
 
 Twister4Azure is a distributed decentralized iterative MapReduce runtime for Windows Azure Cloud.
 
@@ -46,7 +46,7 @@ Twister4Azure is a distributed decentralized iterative MapReduce runtime for Win
   - System design not dependent on immediate data availability
 
 
-<img src='/JudyFox/images/azuremodel.png' width='800' height='700'>
+<img src='/images/azuremodel.png' width='800' height='700'>
 
 ## Publications
 **Conferences/Workshops**  

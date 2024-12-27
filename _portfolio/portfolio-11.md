@@ -1,11 +1,11 @@
 ---
 title: "Salsa Digital Library"
-excerpt: "A functional public web service<br/><img src='/JudyFox/images/library.png' width='100' height='75'>"
+excerpt: "A functional public web service<br/><img src='/images/library.png' width='100' height='75'>"
 collection: portfolio
 order: 11
 ---
 
-<img src='/JudyFox/images/library.png' width='100' height='75'>
+<img src='/images/library.png' width='100' height='75'>
 
 This is searchable archive which have stored academic papers, technical reports, talks, presentation, books and book chapters, etc. These academic articles are all written and given by Dr. Geoffrey C. Fox and his students.
 

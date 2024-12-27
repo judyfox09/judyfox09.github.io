@@ -1,11 +1,11 @@
 ---
 title: "SalsaDPI"
-excerpt: "Reproducible environment on public or private clouds<br/><img src='/JudyFox/images/salsa.png' width='100' height='75'>"
+excerpt: "Reproducible environment on public or private clouds<br/><img src='/images/salsa.png' width='100' height='75'>"
 collection: portfolio
 order: 10
 ---
 
- <img src='/JudyFox/images/salsa.png' width='100' height='75'>
+ <img src='/images/salsa.png' width='100' height='75'>
 
 This is a collaborative project supported by Indiana University and Virginia Polytechnic Institute and State University, supervised by Judy Qiu, Assistant Director of the Pervasive Technology Institute at Indiana University Bloomington.
 
