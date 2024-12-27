@@ -69,7 +69,7 @@ redirect_from:
 <h2 class="collaborator-group">PhD Students</h2>
 <div class="collaborators-row">
     <div class="collaborator">
-        <img src="/JudyFox/images/single - Md Khairul Islam.JPG" alt="Khairul Islam">
+        <img src="/images/single - Md Khairul Islam.JPG" alt="Khairul Islam">
         <div class="collaborator-info">
             <div class="collaborator-name">Md Khairul Islam</div>
             <div class="collaborator-details">Computer Science</div>
@@ -77,7 +77,7 @@ redirect_from:
     </div>
 
     <div class="collaborator">
-        <img src="/JudyFox/images/amirreza.jpg" alt="Amirreza Dolatpour Fathkouhi">
+        <img src="/images/amirreza.jpg" alt="Amirreza Dolatpour Fathkouhi">
         <div class="collaborator-info">
             <div class="collaborator-name">Amirreza Dolatpour Fathkouhi</div>
             <div class="collaborator-details">Computer Science</div>
@@ -85,7 +85,7 @@ redirect_from:
     </div>
 
     <div class="collaborator">
-        <img src="/JudyFox/images/headshot.jpg" alt="Kaleigh O'Hara">
+        <img src="/images/headshot.jpg" alt="Kaleigh O'Hara">
         <div class="collaborator-info">
             <div class="collaborator-name">Kaleigh O'Hara</div>
             <div class="collaborator-details">Data Science</div>
@@ -105,7 +105,7 @@ redirect_from:
    
     
     <div class="collaborator">
-        <img src="/JudyFox/images/TJS_headshot.jpg" alt="Timothy Sue">
+        <img src="/images/TJS_headshot.jpg" alt="Timothy Sue">
         <div class="collaborator-info">
             <div class="collaborator-name">Timothy Sue</div>
             <div class="collaborator-details">Computer Science, Applied Mathematics</div>
@@ -113,7 +113,7 @@ redirect_from:
     </div>
     
     <div class="collaborator">
-        <img src="/JudyFox/images/ID Photo UVA - Ayush Karmacharya.PNG" alt="Ayush Karmacharya">
+        <img src="/images/ID Photo UVA - Ayush Karmacharya.PNG" alt="Ayush Karmacharya">
         <div class="collaborator-info">
             <div class="collaborator-name">Ayush Karmacharya</div>
             <div class="collaborator-details">Computer Science, Economics</div>
@@ -121,7 +121,7 @@ redirect_from:
     </div>
     
     <div class="collaborator">
-        <img src="/JudyFox/images/Ryan Goudjil.png" alt="Ryan Goudjil">
+        <img src="/images/Ryan Goudjil.png" alt="Ryan Goudjil">
         <div class="collaborator-info">
             <div class="collaborator-name">Ryan Goudjil</div>
             <div class="collaborator-details">Computer Science, Statistics</div>
