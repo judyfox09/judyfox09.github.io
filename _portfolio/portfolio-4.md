@@ -1,9 +1,16 @@
 ---
 title: "IndexedHBase"
-excerpt: "Customizable indexing framework to support fast queries and analysis of interesting data subsets<br/><img src='/images/indexbase.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/indexbase.png" alt="IndexedHBase Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Customizable indexing framework to support fast queries and analysis of interesting data subsets
+    </div>
+  </div>
 collection: portfolio
 order: 4
 ---
+
 
 <img src='/images/indexbase.png' width='100' height='275'>
 

@@ -1,9 +1,16 @@
 ---
 title: "MapReduceRoles for Azure"
-excerpt: "Distributed decentralized MapReduce runtime for Windows Azure<br/><img src='/images/code.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/code.png" alt="MapReduceRoles for Azure Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Distributed decentralized MapReduce runtime for Windows Azure
+    </div>
+  </div>
 collection: portfolio
 order: 9
 ---
+
 
 <img src='/images/code.png' width='100' height='75'>
 

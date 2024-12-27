@@ -1,9 +1,16 @@
 ---
 title: "Plot4Viz"
-excerpt: "A cross-platform tool for visualizing large and high-dimensional data.<br/><img src='/images/plotvizimg.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/plotvizimg.png" alt="Plot4Viz Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      A cross-platform tool for visualizing large and high-dimensional data.
+    </div>
+  </div>
 collection: portfolio
 order: 5
 ---
+
 
 <img src='/images/plotvizimg.png' width='100' height='75'>
 

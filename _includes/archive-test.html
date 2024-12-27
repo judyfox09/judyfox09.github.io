@@ -1,0 +1,18 @@
+<div class="portfolio-item">
+  <div class="portfolio-item-container">
+    {% if post.header.teaser %}
+      <div class="portfolio-item-image">
+        <img src="{{ post.header.teaser | prepend: site.baseurl }}" alt="">
+      </div>
+    {% endif %}
+
+    <div class="portfolio-item-content">
+      <h2 class="portfolio-item-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      {% if post.excerpt %}
+        <p class="portfolio-item-excerpt">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>

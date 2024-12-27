@@ -1,9 +1,16 @@
 ---
 title: "IndyCar"
-excerpt: "Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.<br/><img src='/images/indycarimage.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/indycarimage.png" alt="IndyCar Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Real-time anomaly detection from edge to HPC-cloud in collaboration with Indycar and Intel.
+    </div>
+  </div>
 collection: portfolio
 order: 0
 ---
+
 
 ## Objectives
 

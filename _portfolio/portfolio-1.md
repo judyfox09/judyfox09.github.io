@@ -1,9 +1,16 @@
 ---
 title: "Harp"
-excerpt: "High Performance Machine Learning tools for achieving your goals faster.<br/><img src='/images/Harpimage.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/Harpimage.png" alt="Harp Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      High Performance Machine Learning tools for achieving your goals faster.
+    </div>
+  </div>
 collection: portfolio
 order: 1
 ---
+
 <img src='/images/Harpimage.png' width='100' height='75'>
 
 [Website](https://dsc-spidal.github.io/harp/) [GitHub](https://github.com/DSC-SPIDAL/harp)

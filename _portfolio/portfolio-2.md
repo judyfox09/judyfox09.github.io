@@ -1,9 +1,16 @@
 ---
 title: "Twister"
-excerpt: "Iterative Map-Reduce for parallel and scientific computing.<br/><img src='/images/Twister.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/Twister.png" alt="Twister Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Iterative Map-Reduce for parallel and scientific computing.
+    </div>
+  </div>
 collection: portfolio
 order: 2
 ---
+
 <img src='/images/twisterimage1.png' width='100' height='75'>
 
 Build a community to bridge the gap between high performance computing and data analytics.

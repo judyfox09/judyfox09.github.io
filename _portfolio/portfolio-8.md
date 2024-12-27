@@ -1,9 +1,16 @@
 ---
 title: "Intel High Performance Data Analytics"
-excerpt: "Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.<br/><img src='/images/intel1.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/intel1.png" alt="Intel High Performance Data Analytics Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Innovative convergence solutions in high performance data analytics and simulation software development using Intel architecture.
+    </div>
+  </div>
 collection: portfolio
 order: 8
 ---
+
 
 <img src='/images/code.png' width='100' height='75'>
 

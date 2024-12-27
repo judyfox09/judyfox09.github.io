@@ -1,9 +1,16 @@
 ---
 title: "NEC Vector Engine"
-excerpt: "Leverage the leading-edge vector technology of SX-Aurora TSUBASA<br/><img src='/images/NECimg.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/NECimg.png" alt="NEC Vector Engine Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Leverage the leading-edge vector technology of SX-Aurora TSUBASA
+    </div>
+  </div>
 collection: portfolio
 order: 6
 ---
+
 [Github](https://github.com/dsc-nec/frovedis_matrix)
 ## Introduction
 * NEC Vector Engine Processor:

@@ -1,9 +1,16 @@
 ---
 title: "Million Sequence Clustering"
-excerpt: "Find clusters for large sequence sets with around million sequences<br/><img src='/images/seq.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/seq.png" alt="Million Sequence Clustering Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Find clusters for large sequence sets with around million sequences
+    </div>
+  </div>
 collection: portfolio
 order: 12
 ---
+
 
 <img src='/images/seq.png' width='100' height='75'>
 

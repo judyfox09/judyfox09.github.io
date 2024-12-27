@@ -1,10 +1,17 @@
 ---
 title: "Financial Aid Model for AccessUVA"
-excerpt: "Large Language Models for Financial Aid
-in Financial Time-series Forecasting<br/><img src='/images/line.png' width='100' height='75'>"
+excerpt: |
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/images/line.png" alt="Line Chart" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
+    <div style="flex: 1;">
+      Large Language Models for Financial Aid in Financial Time-series Forecasting
+    </div>
+  </div>
 collection: portfolio
 order: 0
 ---
+
+
 
 <img src='/images/line.png' width='100' height='75'>
 
