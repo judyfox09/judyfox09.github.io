@@ -1,0 +1,26 @@
+.archive__item-container {
+    display: flex; /* Arrange elements horizontally */
+    align-items: flex-start; /* Align items at the top */
+    gap: 20px; /* Add space between the image and text */
+  }
+  
+  .archive__item-teaser img {
+    max-width: 100px; /* Restrict image width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .archive__item-details {
+    display: flex;
+    flex-direction: column; /* Stack title above description */
+  }
+  
+  .archive__item-title {
+    margin-bottom: 10px; /* Add space below the title */
+    font-size: 1.2em; /* Adjust the font size for visibility */
+  }
+  
+  .archive__item-excerpt {
+    font-size: 0.95em; /* Adjust description font size */
+    color: #555; /* Optional: Change color for readability */
+  }
+  

@@ -1,12 +1,7 @@
 ---
 title: "Covid Prediction"
-excerpt: |
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/images/covid.png" alt="COVID-19 Chart" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
-    <div style="flex: 1;">
-      Interpreting County Level COVID-19 Infection and Feature Sensitivity using DL Time Series Models
-    </div>
-  </div>
+excerpt: Interpreting County Level COVID-19 Infection and Feature Sensitivity using DL Time Series Models
+teaser_image: "/images/covid.png"
 collection: portfolio
 order: 0
 ---

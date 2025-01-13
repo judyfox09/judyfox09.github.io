@@ -1,12 +1,7 @@
 ---
 title: "Salsa Digital Library"
-excerpt: |
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/images/library.png" alt="Salsa Digital Library Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
-    <div style="flex: 1;">
-      A functional public web service
-    </div>
-  </div>
+excerpt: A functional public web service
+teaser_image: "/images/library.png"
 collection: portfolio
 order: 11
 ---

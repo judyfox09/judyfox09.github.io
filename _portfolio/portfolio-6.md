@@ -1,12 +1,8 @@
 ---
 title: "NEC Vector Engine"
-excerpt: |
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/images/NECimg.png" alt="NEC Vector Engine Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
-    <div style="flex: 1;">
-      Leverage the leading-edge vector technology of SX-Aurora TSUBASA
-    </div>
-  </div>
+excerpt: Leverage the leading-edge vector technology of SX-Aurora TSUBASA
+
+teaser_image: "/images/NECimg.png"
 collection: portfolio
 order: 6
 ---

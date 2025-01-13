@@ -1,18 +1,83 @@
-<div class="portfolio-item">
-  <div class="portfolio-item-container">
-    {% if post.header.teaser %}
-      <div class="portfolio-item-image">
-        <img src="{{ post.header.teaser | prepend: site.baseurl }}" alt="">
-      </div>
-    {% endif %}
+{% include base_path %}
 
-    <div class="portfolio-item-content">
-      <h2 class="portfolio-item-title">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </h2>
-      {% if post.excerpt %}
-        <p class="portfolio-item-excerpt">{{ post.excerpt | markdownify }}</p>
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: 'list' }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="archive__item-container">
+
+      <!-- Show the separate image on the left if it exists -->
+      {% if post.teaser_image %}
+        <div class="archive__item-teaser">
+          <img 
+            src="{{ post.teaser_image | prepend: base_path }}" 
+            alt="Project Teaser" 
+            style="width: 150px; height: auto;"
+          >
+        </div>
       {% endif %}
+
+      <!-- Title on top, excerpt text below, to the right of the image -->
+      <div class="archive__item-content">
+        <h2 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </h2>
+        
+        {% if post.excerpt %}
+          <div class="archive__item-excerpt" itemprop="description">
+            {{ post.excerpt }}
+          </div>
+        {% endif %}
+      </div>
     </div>
-  </div>
+  </article>
 </div>
+
+<style>
+.archive__item {
+  margin-bottom: 2em !important;
+}
+
+.archive__item-container {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 20px !important; /* space between image and text */
+  margin-bottom: 1em !important;
+}
+
+.archive__item-teaser {
+  flex-shrink: 0 !important;
+}
+
+.archive__item-content {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.archive__item-title {
+  margin: 0 0 8px 0 !important;
+  font-size: 1.0em !important;
+}
+
+.archive__item-title a {
+  color: #0077cc !important;
+  text-decoration: none !important;
+  font-weight: normal !important;
+}
+
+.archive__item-excerpt {
+  margin: 0 !important;
+  font-size: 1em !important;
+  color: #333 !important;
+  line-height: 1.5 !important;
+}
+</style>

@@ -1,12 +1,7 @@
 ---
 title: "Harp"
-excerpt: |
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/images/Harpimage.png" alt="Harp Image" style="width: 100px; height: 75px; margin-right: 20px; flex-shrink: 0;">
-    <div style="flex: 1;">
-      High Performance Machine Learning tools for achieving your goals faster.
-    </div>
-  </div>
+excerpt: High Performance Machine Learning tools for achieving your goals faster.
+teaser_image: "/images/Harpimage.png"
 collection: portfolio
 order: 1
 ---
