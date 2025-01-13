@@ -127,4 +127,11 @@ redirect_from:
             <div class="collaborator-details">Computer Science, Statistics</div>
         </div>
     </div>
+    <div class="collaborator">
+            <img src="/images/Xin Sun.jpeg" alt="Xin Sun">
+            <div class="collaborator-info">
+                <div class="collaborator-name">Xin Sun</div>
+                <div class="collaborator-details">Computer Science</div>
+            </div>
+    </div> 
 </div>
