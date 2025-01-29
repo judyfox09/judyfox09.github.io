@@ -27,7 +27,7 @@ Summer 2022, DS6011 Capstone I Course
 
 Fall 2021, DS6000 Ph.D. Proseminar Course
 
-Fall 2021, DS5100 Programming for Data Science
+[Fall 2021, DS5100 Programming for Data Science](https://judyfox09.github.io/DS5100/)
 
 Spring 2021, CS5010 Programming and Systems for Data Science
 
