@@ -23,6 +23,9 @@ main:
   
   - title: "People"
     url: /people/
+
+  - title: "test"
+    url: /classextra/
     
   
 
