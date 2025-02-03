@@ -4,6 +4,24 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+<p>Using Interpretable Models for Better Understanding of Spatio-Temporal Times Series Forecasting for Science, Workshop on Clusters and Computational Data for Scientific Computing (CCDSC), Lyon, France. September 3-6, 2024.</p>
+
+<p><a href="https://cic-apps.datascience.columbia.edu/grants/2361">Expeditions: Collaborative Research: Global Pervasive Computational Epidemiology</a>, Winter 2024 COVID Information Commons Webinar, January 5, 2024. Columbia University.</p>
+
+<p>Quantitative Psychology Department Lunch Talk Series (DADA), September 28, 2023.</p>
+
+<p>Using HPC and AI for Data Science Education, EduHPC Workshop of SC’22 conference, Dallas, TX, November 14, 2022.</p> 
+
+<p>HySec-Flow: A Scalable and Secure Framework for Heterogeneous Computation, Workshop on Clusters and Computational Data for Scientific Computing (CCDSC), Lyon, France. September 6-9, 2022.</p>
+
+<p>OneAPI CoE Presentation, HarpDAAL Integration with oneDAL, oneTBB, and SGX, Intel, October 7, 2021.</p>
+
+<p>HySec-Flow: Privacy-Preserving Genomic Computing with SGX-based Big-Data Analytics Framework, IEEE International Symposium on Cloud & HPC, September 7-8, 2021.</p>
+
+<p>Rank Position Forecasting in Car Racking, the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS). May 20, 2021.</p>
+
+<p>SpGEMM for Vector Engines and Graph Applications, NEC Booth of SC’19, Denver, Colorado. Nov. 19th, 2019.</p>
+
 <p>Real-Time Anomaly Detection from Edge to HPC-Cloud
 Big Data and Extreme-Scale Computing 2 Workshop (BDEC2), Bloomington, Indiana. November 28-30, 2018.</p>
 <p>High-Performance AI: A View from Systems and Frameworks
